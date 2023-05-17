@@ -28,7 +28,7 @@ Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
 ```
 
-Python script is saved here (Pybank/main.py) :  https://github.com/srinivasj1987/python-challenge/tree/2f164dc991439b796c658821d890111a44af0ce0/PyBank
+Python script is saved here (Pybank/main.py) :  https://github.com/srinivasj1987/python-challenge/tree/6cc966f3b1a72b8ef5b4498f56c276827cf19c83/PyBank
 
 ## PyPoll
 Vote-Counting
@@ -60,4 +60,4 @@ Charles Casper Stockham: 23.049% (85213)
 Winner: Diana DeGette
 -------------------------
 ```
-Python script is saved here (PyPoll/main.py) : https://github.com/srinivasj1987/python-challenge/tree/2f164dc991439b796c658821d890111a44af0ce0/PyPoll
+Python script is saved here (PyPoll/main.py) : https://github.com/srinivasj1987/python-challenge/tree/6cc966f3b1a72b8ef5b4498f56c276827cf19c83/PyPoll
